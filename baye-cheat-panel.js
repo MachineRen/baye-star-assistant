@@ -27,7 +27,7 @@
         return;
     }
 
-    var CHEAT_VERSION = '1.23.1';
+    var CHEAT_VERSION = '1.24.0';
 
     function ready() {
         return window.baye && window.baye.hooks && window.baye.data;
